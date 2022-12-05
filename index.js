@@ -1,7 +1,59 @@
 // TODO: Include packages needed for this application
+const inquirer = require("inquirer");
+const fs = require("fs");
+const util = require("util") 
 
 // TODO: Create an array of questions for user input
-const questions = [];
+const questions = [{
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, {
+    messsage:"Enter the title of the project",
+    name: "title",
+    type: "insert",
+}, 
+];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
