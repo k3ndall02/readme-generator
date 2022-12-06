@@ -29,31 +29,26 @@ const questions = [{
     name: "Credits",
     type: "insert",
 }, {
-    messsage:"Enter the title of the project",
+    messsage:"A license will let other developers know what they can and cannot do with your project.",
     name: "License",
     type: "insert",
 }, {
-    messsage:"Enter the title of the project",
-    name: "title",
+    messsage:"Are not neccessary but provides proof that you know what you are doing as a developer.",
+    name: "Badges",
     type: "insert",
 }, {
-    messsage:"Enter the title of the project",
-    name: "title",
+    messsage:"List features here.",
+    name: "Features",
     type: "insert",
 }, {
-    messsage:"Enter the title of the project",
-    name: "title",
+    messsage:"If you would like other developers to contribute to your application, include instructions on how to do so.",
+    name: "How to Contribute",
     type: "insert",
 }, {
-    messsage:"Enter the title of the project",
-    name: "title",
+    messsage:"Write tests for your application and provide examples on how to run them.",
+    name: "Tests",
     type: "insert",
-}, {
-    messsage:"Enter the title of the project",
-    name: "title",
-    type: "insert",
-}, 
-];
+}];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
