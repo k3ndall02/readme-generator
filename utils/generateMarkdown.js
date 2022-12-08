@@ -44,6 +44,8 @@ function generateMarkdown(data) {
   * [Installation](#installation)
   * [Usage](#usage)
   ${renderLicenseLink(data.License)}
+  * [Contributions](#contributions)
+  * [Tests](#tests)
 
   ## Installation
   ${data.Installation}
@@ -53,6 +55,12 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.License)}
 
+  ## Contributions
+  ${data.Contributions}
+  
+  ## Tests
+  ${data.Tests}
+  
   ## Questions
   If you have any questions please contact me at [${data.Email}](mailto:${data.Email}).
   For more of my projects check out my github [${data.Github}](https://github.com/${data.Github}).

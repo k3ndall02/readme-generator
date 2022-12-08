@@ -20,29 +20,25 @@ const questions = [{
     messsage:"Provide instructions on how to use app.",
     name: "Usage",
     type: "input",
-}, {
-    messsage:"List any collaborators, third-party assets, or tutorials that helped you complete this project.",
-    name: "Credits",
-    type: "input",
-}, {
+},  {
     messsage:"A license will let other developers know what they can and cannot do with your project.",
     name: "License",
     type: "list",
     choices: ["GNU","MIT","ISC","APACHE2.0","None"]
 }, {
     messsage:"If you would like other developers to contribute to your application, include instructions on how to do so.",
-    name: "How to Contribute",
+    name: "Contributions",
     type: "input",
 }, {
-    messsage:"Write tests for your application and provide examples on how to run them.",
+    messsage:"Provide examples on how to run tests.",
     name: "Tests",
     type: "input",
 }, {
-    message: "Please enter email",
+    message: "Enter your email.",
     name: "Email",
     type: "input",
 }, {
-    message: "Please enter github",
+    message: "Enter your github username.",
     name: "Github",
     type:"input",
 }
