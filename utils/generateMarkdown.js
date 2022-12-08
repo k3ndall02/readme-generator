@@ -46,6 +46,7 @@ function generateMarkdown(data) {
   ${renderLicenseLink(data.License)}
   * [Contributions](#contributions)
   * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
   ${data.Installation}
