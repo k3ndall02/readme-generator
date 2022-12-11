@@ -1,34 +1,33 @@
-# trap 
+# Mag Farms 
 
-  <img src="https://img.shields.io/badge/License-APACHE2.0-blue.svg"/>
+  
 
 
   ## Description
-  music
+  The motivation behind this project comes from having the ability to grow my own produce but not just for myself. Others would be able to use this app to order fresh produce straight from the source. Could be either delivered or picked up at the farm. What I learned during this project is how to make a mini slide show play of the product while the cursor hovers it or while not scrolling on a mobile screen.
 
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
-  * [License](#license)
+  
   * [Contributions](#contributions)
   * [Tests](#tests)
+  * [Questions](#questions)
 
   ## Installation
-  studio
+  github repository
 
   ## Usage
-  personal
+  This readme-generator provides the user with a layout to input their information instead of creating from scratch trying and to figure out what to enter.
 
-  ## License
-    
-    This project is licensed under APACHE2.0
+  
 
   ## Contributions
-  producer and engineer
+  n/a
   
   ## Tests
-  cuts 
+  multiple
   
   ## Questions
-  If you have any questions please contact me at [k3ncole02@gmail.com](mailto:k3ncole02@gmail.com).
+  If you have any questions please contact me at [kendallcoleman2023@u.northwestern.edu](mailto:kendallcoleman2023@u.northwestern.edu).
   For more of my projects check out my github [k3ndall02](https://github.com/k3ndall02).
