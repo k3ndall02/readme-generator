@@ -18,7 +18,7 @@
   github repository
 
   ## Usage
-  This readme-generator provides the user with a layout to input their information instead of creating from scratch trying and to figure out what to enter.
+  This readme-generator provides the user with a layout to input their information instead of creating from scratch and trying to figure out what you should enter.
 
   
 
